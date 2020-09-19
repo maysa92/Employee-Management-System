@@ -43,7 +43,8 @@ insert id (2 digits): 01
 search by id: 01
 01 one 01/01/01
 
-MENU ----------------------------
+MENU 
+----------------------------
 1.registration
 2.search by id
 3.total number of employee
