@@ -10,7 +10,8 @@ Requirements:
 Sample Run:  
 
 
-MENU ----------------------------
+MENU 
+----------------------------
 1.registration
 2.search by id
 3.total number of employee
@@ -26,7 +27,8 @@ insert DOB (mm/dd/yy): 01/01/01
 
 01 one 01/01/01  ................................ registered successfully!
 
-MENU ----------------------------
+MENU 
+----------------------------
 1.registration
 2.search by id
 3.total number of employee
@@ -52,7 +54,8 @@ SELECT MENU 1 - 5: 3
 
 TOTAL NUMBER OF EMPLOYEE: 1
 
-MENU ----------------------------
+MENU 
+----------------------------
 1.registration
 2.search by id
 3.total number of employee
@@ -64,7 +67,8 @@ SELECT MENU 1 - 5: 4
 EMPLOYEE LIST: 
 01 one 01/01/01
 
-MENU ----------------------------
+MENU 
+----------------------------
 1.registration
 2.search by id
 3.total number of employee
