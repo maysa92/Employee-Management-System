@@ -19,9 +19,10 @@ public class Db { //data access object
         int target = 0;
         for(int i = 0; i < db.length; i++){
             int x = db[i].getId();
-            if(id == x)
+            if(id == x){
             target = i;
             break;
+            }
         }
         return db[target];
     }
